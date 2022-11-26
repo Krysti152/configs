@@ -48,3 +48,7 @@ URxvt.cursorBlink: true
 URxvt.scrollBar: false
 URxvt.scrollBar_right: false
 URxvt.depth: 24
+
+URxvt.tintColor: #363636
+URxvt.transparent: true
+URxvt:shading: 20
